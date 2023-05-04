@@ -1,0 +1,72 @@
+{
+  "sounds" : [
+    {
+      "description" : "https:\/\/freesound.org\/people\/vckhaze\/sounds\/380696\/",
+      "name" : "#Charge!",
+      "image" : "⚾",
+      "color" : "FF3B30"
+    },
+    {
+      "description" : "https:\/\/freesound.org\/people\/jacksonacademyashmore\/sounds\/414208\/",
+      "name" : "*Air horn ~",
+      "image" : "📯",
+      "color" : "34C759"
+    },
+    {
+      "name" : "+=The Price Is Right Loss^",
+      "color" : "FF3B30",
+      "image" : "💲"
+    },
+    {
+      "name" : ",Windows XP Error’",
+      "color" : "34C759",
+      "image" : "🪟"
+    },
+    {
+      "description" : "https:\/\/freesound.org\/people\/guitarguy1985\/sounds\/54047\/",
+      "name" : "\/Buzzer\\",
+      "image" : "⏲️",
+      "color" : "FF3B30"
+    },
+    {
+      "name" : "Jingle Bells Cool",
+      "color" : "FF3B30",
+      "image" : "bell.fill"
+    },
+    {
+      "audioFileSuffix" : 1,
+      "name" : "Jingle Bells: Cool",
+      "image" : "bell.fill",
+      "color" : "34C759"
+    },
+    {
+      "name" : "Spooky?",
+      "color" : "FF9500",
+      "image" : "👻"
+    },
+    {
+      "name" : "{spongebob-fail}",
+      "color" : "1941A3",
+      "image" : "🧽"
+    },
+    {
+      "name" : "Śoxing | Bell",
+      "image" : "🥊",
+      "description" : "https:\/\/pixabay.com\/sound-effects\/boxing-bell-signals-6115\/"
+    },
+    {
+      "name" : "“Defense”",
+      "color" : "479FD3",
+      "image" : "d.square.fill"
+    },
+    {
+      "name" : "€Láw & Ôrder&",
+      "color" : "8E610A",
+      "image" : "⚖️"
+    }
+  ],
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "name" : "Random",
+  "image" : "🤪",
+  "color" : "FF9500"
+}
